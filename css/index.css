@@ -1,0 +1,24 @@
+/* line 1, ../../src/sass/index.scss */
+body, p, td {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/* line 4, ../../src/sass/index.scss */
+strong {
+  font-weight: bold;
+}
+
+/* line 7, ../../src/sass/index.scss */
+#demo {
+  float: left;
+}
+
+/* line 11, ../../src/sass/index.scss */
+#wrapper {
+  margin: 1em;
+}
+
+/* line 18, ../../src/sass/index.scss */
+#pattern {
+  background-color: yellow;
+}
